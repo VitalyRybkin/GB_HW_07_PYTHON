@@ -1,0 +1,2 @@
+global data
+global flag

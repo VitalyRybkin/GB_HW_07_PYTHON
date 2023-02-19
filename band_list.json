@@ -1,0 +1,23 @@
+[
+  {
+    "band": "Metallica",
+    "song": "Nothing else matters",
+    "style": "rock",
+    "playlist": "rock",
+    "file": "Metallica_-_Nothing_Else_Matters_47954420.mp3"
+  },
+  {
+    "band": "Rammstein",
+    "song": "Du hust",
+    "style": "rock",
+    "playlist": "rock",
+    "file": "Rammstein_-_Du_Hast_63121993.mp3"
+  },
+  {
+    "band": "Rammstien",
+    "song": "Sonne",
+    "style": "rock",
+    "playlist": "industrial",
+    "file": "Rammstein_-_Sonne_57658982.mp3"
+  }
+]
